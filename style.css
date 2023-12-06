@@ -1,0 +1,49 @@
+header{
+  border-radius: 50px;
+  padding: 3px;
+  background-color: black;
+}
+
+footer p{
+  border-radius: 30px;
+  padding: 1px;
+  background-color: white;
+}
+
+footer{
+   padding: 1px;
+   background-color: grey;
+   height: 110px;
+}
+
+nav{
+  margin: 10px 0px;
+  text-align: center;
+}
+
+nav a{
+  text-decoration: none;
+  padding-right: 60px; 
+  color: black;
+}
+body{
+  background-color: orangered;
+}
+h1{
+  color: white;
+  text-align: center;
+  font-family: cursive;
+}
+h2{
+  text-align: center;
+  color: gray;
+  font-size: 30px;
+}
+main p{
+  text-align: center;
+  color: white;
+  font-size: 25px;
+}
+p img{
+  text-align: center;
+}
